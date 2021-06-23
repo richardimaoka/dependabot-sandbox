@@ -11,6 +11,7 @@
   "dependencies": {
     "lodash": "4.17.21",
     "merge-deep": "3.0.2",
+    "object-assign": "3.0.0",
     "react": "17.0.2"
   },
   "repository": "git@github.com:richardimaoka/dependabot-sandbox.git"
