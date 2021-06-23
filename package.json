@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Richard Imaoka <richard.e.imaoka@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.18",
-    "merge-deep": "^3.0.2",
-    "react": "^17.0.2"
-  }
+    "lodash": "4.17.18",
+    "merge-deep": "3.0.2",
+    "react": "17.0.2"
+  },
+  "repository": "git@github.com:richardimaoka/dependabot-sandbox.git"
 }
